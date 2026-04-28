@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36804.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClickCounter", "ClickCounter\ClickCounter.csproj", "{A8751EA4-E824-4BB9-A28E-5B9AD7C3716E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8751EA4-E824-4BB9-A28E-5B9AD7C3716E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8751EA4-E824-4BB9-A28E-5B9AD7C3716E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8751EA4-E824-4BB9-A28E-5B9AD7C3716E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8751EA4-E824-4BB9-A28E-5B9AD7C3716E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41F8BDA2-1222-49DC-AC7B-E92BA47652B5}
+	EndGlobalSection
+EndGlobal
