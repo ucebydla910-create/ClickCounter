@@ -36,7 +36,8 @@ namespace ClickCounter
 
         private void btnReset_Click(object sender, EventArgs e)
         {
-
+            ClickCount = 0;
+            lblCounter.Text = "0";
         }
     }
 }
